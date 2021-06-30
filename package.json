@@ -1,6 +1,6 @@
 {
-  "name": "wes",
-  "homepage": "https://MClarke9k9.github.io/WeatherDashboard2.0/",
+  "name": "WeatherDashboard2.0",
+  "homepage": "https://MClarke9k9.github.io/WeatherDashboard2.0",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
